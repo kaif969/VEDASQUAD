@@ -85,7 +85,7 @@ http://localhost:3000
 ### For Consumers
 
 #### Verifying Product Authenticity
-1. Click "Verify Product" on the dashboard or go to `/verify.html`
+1. Click "Verify Product" on the dashboard or go to `/verify-new.html`
 2. Enter the QR code from product packaging (e.g., "QR-ABC123XYZ")
 3. View complete product journey including:
    - Harvest location with GPS coordinates
