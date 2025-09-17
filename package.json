@@ -1,0 +1,27 @@
+{
+  "name": "ayurvedic-traceability-mvp",
+  "version": "1.0.0",
+  "description": "Blockchain-based botanical traceability system for Ayurvedic herbs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["blockchain", "traceability", "ayurveda", "herbs"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "qrcode": "^1.5.4",
+    "sqlite3": "^5.1.7",
+    "uuid": "^13.0.0"
+  }
+}
